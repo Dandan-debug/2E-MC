@@ -17,10 +17,10 @@ st.markdown("""
 # 显示描述文本
 st.markdown("""
     <p style='text-align: left; font-size: 16px; margin-bottom: 28px;'>
-        The 2M-EC (Multimodal Multilevel Endometrial Cancer) is a patient-first platform for the early screening of endometrial cancer (EC) and high-risk subtype detection.<br><br>
+        The 2M-EC (Multimodal Multilevel Endometrial Cancer) is a patient-first platform for the early screening of endometrial cancer (EC).<br><br>
         Employs patient-centered models to calculate specific risk probabilities:<br>
         • <b>"CP"</b> (EC minimally invasive screening): Integrating cervicovaginal metabolic profiling and plasma molecular profiling with routine clinical indicators for early-stage cancer screening<br>
-        • <b>"UCP"</b> (EC precision screening): Integrating uterine metabolic profiling, cervicovaginal metabolic profiling and plasma molecular profiling with routine clinical indicators for precision cancer screening and high-risk subtype detection<br><br>
+        • <b>"UCP"</b> (EC precision screening): Integrating uterine metabolic profiling, cervicovaginal metabolic profiling and plasma molecular profiling with routine clinical indicators for precision cancer screening<br><br>
         Input data includes:<br>
         • Patient baseline: demographics, medical history, ultrasound examination results, and plasma tumor markers (HE4 and CA125)<br>
         • Biofluid molecular omics: cervicovaginal metabolic omics, uterine metabolic omics, and plasma molecular omics<br><br>
